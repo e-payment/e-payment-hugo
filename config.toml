@@ -3,7 +3,7 @@ title = "e-Payment"
 copyright = "Copyright &copy; 2019 - e-Payment"
 canonifyurls = true
 theme = "hugo-kiera"
-
+googleAnalytics="UA-144753990-1"
 paginate = 3
 
 summaryLength = 30
